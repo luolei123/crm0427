@@ -6,5 +6,6 @@ public class Test01 {
        System.out.println("罗磊");
        System.out.println("罗磊123");
        System.out.println("罗磊123321123");  
+       System.out.println("123罗磊");
 	}
 }
